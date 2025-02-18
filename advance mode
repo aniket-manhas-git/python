@@ -1,0 +1,5 @@
+r+ is for read and write
+d where we can write and read at the same time
+1st we need to write and then we use "file.read()" to print the file
+a+ is use for append and read where we can append any line
+then we can print all the lines of the file using "file.read()

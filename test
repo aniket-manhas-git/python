@@ -1,0 +1,6 @@
+1 we are learning file handling
+2 the file handling is used to handle the file in each and every way possible
+3 in the file handling we can create a text file and can also insert lines in the file
+4 the basic syntax of the file handling is variable_name = open('file_name','w')
+5 mode 'w' is used to write or insert any line in the file
+6 the syantax for append a line variable_name = open('file_name','a')
